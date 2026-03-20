@@ -42,7 +42,12 @@ install \
     pipewire-alsa \
     pipewire-jack \
     sbctl \
-    tmux \
-    gedit
+	tmux \
+    gedit \
+    onlyoffice-bin \
+    noto-fonts \
+    noto-fonts-cjk \
+    noto-fonts-emoji \
+    noto-fonts-extra
 
 echo "✅ Done!"
