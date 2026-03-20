@@ -41,6 +41,8 @@ install \
     pipewire \
     pipewire-alsa \
     pipewire-jack \
-    sbctl
+    sbctl \
+    tmux \
+    gedit
 
 echo "✅ Done!"
